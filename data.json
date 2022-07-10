@@ -1,0 +1,17 @@
+{
+  "block_list": [
+    { "param": "fbclid" },
+    { "param": "utm_source" },
+    { "param": "utm_medium" },
+    { "param": "utm_campaign" },
+    { "param": "utm_term" },
+    { "param": "utm_content" },
+    { "param": "pd_rd_i" },
+    { "param": "pf_rd_p" },
+    { "param": "pf_rd_r" },
+    { "param": "pd_rd_wg" },
+    { "param": "pd_rd_w" },
+    { "param": "pd_rd_r" },
+    { "param": "ref" }
+  ]
+}
